@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WebApplication3\bin\WebApplication3.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WebApplication3\obj\Debug\WebApplication3.pdb

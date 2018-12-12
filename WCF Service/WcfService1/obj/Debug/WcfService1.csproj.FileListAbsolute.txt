@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WcfService1\bin\WcfService1.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WcfService1\bin\WcfService1.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Michael\Documents\visual studio 2017\Projects\WindowsFormsApp1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\GitHub\Distributed-Software-Developed\WcfService1\bin\WcfService1.dll.config
+D:\GitHub\Distributed-Software-Developed\WcfService1\bin\WcfService1.dll
+D:\GitHub\Distributed-Software-Developed\WcfService1\bin\WcfService1.pdb
+D:\GitHub\Distributed-Software-Developed\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\GitHub\Distributed-Software-Developed\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+D:\GitHub\Distributed-Software-Developed\WcfService1\obj\Debug\WcfService1.dll
+D:\GitHub\Distributed-Software-Developed\WcfService1\obj\Debug\WcfService1.pdb

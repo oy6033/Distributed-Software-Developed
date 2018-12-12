@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2017\Projects\CSE445_hw04_part_II\CSE445_hw04_part_II\bin\CSE445_hw04_part_II.dll.config
+c:\users\michael\documents\visual studio 2017\Projects\CSE445_hw04_part_II\CSE445_hw04_part_II\bin\CSE445_hw04_part_II.dll
+c:\users\michael\documents\visual studio 2017\Projects\CSE445_hw04_part_II\CSE445_hw04_part_II\bin\CSE445_hw04_part_II.pdb
+c:\users\michael\documents\visual studio 2017\Projects\CSE445_hw04_part_II\CSE445_hw04_part_II\obj\Debug\CSE445_hw04_part_II.csproj.CoreCompileInputs.cache
+c:\users\michael\documents\visual studio 2017\Projects\CSE445_hw04_part_II\CSE445_hw04_part_II\obj\Debug\CSE445_hw04_part_II.dll
+c:\users\michael\documents\visual studio 2017\Projects\CSE445_hw04_part_II\CSE445_hw04_part_II\obj\Debug\CSE445_hw04_part_II.pdb

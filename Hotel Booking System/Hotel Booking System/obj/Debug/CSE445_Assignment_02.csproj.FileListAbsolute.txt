@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\obj\Debug\CSE445_Assignment_02.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\obj\Debug\CSE445_Assignment_02.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\bin\Debug\CSE445_Assignment_02.exe.config
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\bin\Debug\CSE445_Assignment_02.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\bin\Debug\CSE445_Assignment_02.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\obj\Debug\CSE445_Assignment_02.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CSE445_Assignment_02\CSE445_Assignment_02\obj\Debug\CSE445_Assignment_02.pdb

@@ -1,0 +1,6 @@
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework3_part_03\CountWords\bin\CountWords.dll.config
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework3_part_03\CountWords\bin\CountWords.dll
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework3_part_03\CountWords\bin\CountWords.pdb
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework3_part_03\CountWords\obj\Debug\ElectiveSerive.csproj.CoreCompileInputs.cache
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework3_part_03\CountWords\obj\Debug\CountWords.dll
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework3_part_03\CountWords\obj\Debug\CountWords.pdb

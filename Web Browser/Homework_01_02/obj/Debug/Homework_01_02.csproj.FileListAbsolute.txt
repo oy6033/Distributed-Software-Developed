@@ -1,0 +1,9 @@
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\bin\Debug\Homework_01_02.exe
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\bin\Debug\Homework_01_02.pdb
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\obj\Debug\Homework_01_02.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\obj\Debug\Homework_01_02.Form1.resources
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\obj\Debug\Homework_01_02.Properties.Resources.resources
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\obj\Debug\Homework_01_02.csproj.GenerateResource.Cache
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\obj\Debug\Homework_01_02.exe
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\obj\Debug\Homework_01_02.pdb
+C:\Users\Michael\documents\visual studio 2017\Projects\Homework_01_02\Homework_01_02\bin\Debug\Homework_01_02.exe.config
